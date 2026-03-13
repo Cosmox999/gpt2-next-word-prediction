@@ -1,0 +1,8 @@
+Input: Machine learning is
+Prediction: a powerful technique used to analyze data.
+
+Input: Artificial intelligence can
+Prediction: transform industries by automating complex tasks.
+
+Input: Deep learning models are
+Prediction: capable of learning hierarchical representations.
