@@ -68,28 +68,6 @@ Prediction: a powerful technique used to analyze large datasets
 
 ---
 
-## Project Structure
-gpt2-next-word-prediction
-│
-├── notebooks
-│ └── gpt2_next_word_prediction.ipynb
-│
-├── results
-│ ├── training_log.csv
-│ ├── sample_predictions.txt
-│ └── loss_curve.png
-│
-├── requirements.txt
-└── README.md
-
-**notebooks/**  
-Contains the Jupyter notebook used for training and evaluation.
-
-**results/**  
-Contains training metrics, prediction samples, and visualizations.
-
----
-
 ## Installation
 
 Clone the repository:
